@@ -1,4 +1,4 @@
-#Corporate Crisis Analysis
+# Corporate Crisis Analysis
 
 Every year, we see several companies related but not limited to industries such as Information Technology, Banking, Retail,
 Social Networking etc., being hit by corporate crisis. Our curiosity to address the question, Are there any measures
