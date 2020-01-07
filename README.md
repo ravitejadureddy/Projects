@@ -17,4 +17,6 @@ For our aim of building model for identifying significant variables, we have bui
 
 Of all the input variables such as reaction time, apology in the reply by companies, informative action in the first reply etc., used to knowing the output variable re(time taken in days for the public sentiment on company to reach same level, for crisis before to crisis after), reaction time(time taken by the company to reply to the public after they have hit crisis) seemed very significant. Variable apology_1(apology in the first reply even though issue was not because of company's mistake) also seemed significant. While all other variables seemed less significant.
 
-Conclusion from our, during the time of crisis,
+Conclusion:
+
+A company if affected through crisis, can help secure their public relations in an early stage of crisis through fast first reply to the public regarding the issue and through apologies in these replies(), even through there were no mistakes from company's end for the rise of crisis issues such as data breach, discriminating advertising commercials etc. The actions(through which the company is going to address the crisis scenario) being stated in the first reply from company representatives is least significant for settling up the crisis.  
