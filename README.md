@@ -1,6 +1,6 @@
 # LTFS
 
-This project is an Analytics Hackathon-LTFS2. Here, the L&T company challenges the individuals to predict the number of loan applications they receive each day, so that they can accomodate enough resources to process the cases in less time and improve their customer satisfaction.
+This project is based on Analytics Hackathon-LTFS2. Here, the L&T company challenges the individuals to predict the number of loan applications they receive each day, so that they can accomodate enough resources to process the cases in less time and improve their customer satisfaction.
 For this business use case, L&T has provided the number of applications they have received earlier, requesting them for loans for 2 of their business segments.
 
 The link to this challenge can be found below:
